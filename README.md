@@ -19,10 +19,10 @@
     - [ ] Características e vantagens
 
 ## AWS - Road map  
-[Udemy PT-Br](https://www.udemy.com/course/certificacao-aws-cloud-practitioner/)
-[Udemy EN-Fr](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-[LinuxTips](https://school.linuxtips.io/p/aws-expert)
-[Youtube](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm)
+- [Udemy PT-Br](https://www.udemy.com/course/certificacao-aws-cloud-practitioner/)
+- [Udemy EN-Fr](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+- [LinuxTips](https://school.linuxtips.io/p/aws-expert)
+- [Youtube](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm)
 
 - [ ] AWS - Organizational Unit (OU)
 - [ ] AWS - Accounts
@@ -63,7 +63,7 @@
 
 
 ## IAC - Infra As Code 
-[Youtube - EN-Us](https://www.youtube.com/watch?v=vwn77cUarTs&list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt)
-[Udemy - EN-Us](https://www.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/)
+- [Youtube - EN-Us](https://www.youtube.com/watch?v=vwn77cUarTs&list=PL8HowI-L-3_9bkocmR3JahQ4Y-Pbqs2Nt)
+- [Udemy - EN-Us](https://www.udemy.com/course/terraform-on-aws-with-sre-iac-devops-real-world-demos/)
 
 - [ ] Terraform
