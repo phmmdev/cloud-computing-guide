@@ -1,6 +1,6 @@
 # cloud-computing-guide
 
-## Redes  - https://www.youtube.com/watch?v=dp9ynjJamoI&list=PLuf64C8sPVT_nObvAFU5W-SiE04ST-PlL&index=2
+## [Redes](https://www.youtube.com/watch?v=dp9ynjJamoI&list=PLuf64C8sPVT_nObvAFU5W-SiE04ST-PlL&index=2)
 
 - [ ]  Modelo OSI 
 - [ ]  Binários (entendendo código binário)
@@ -13,7 +13,7 @@
 - [ ]  Protocolo TCP e UDP
 - [ ]  DNS - O quê é ?
 
-## Fundamentos Cloud Computing - https://www.youtube.com/watch?v=zaj0IX8dQwA&list=PLwlq4XZ8aTmfHJTNreRyqCmXVWhyF5LHo
+## [Fundamentos Cloud Computing](https://www.youtube.com/watch?v=zaj0IX8dQwA&list=PLwlq4XZ8aTmfHJTNreRyqCmXVWhyF5LHo)
 
 - [ ] O que é Cloud?
     - [ ] Características e vantagens
